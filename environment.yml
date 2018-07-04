@@ -1,0 +1,17 @@
+name: ecdf-guide
+channels:
+- defaults
+- conda-forge
+- ericmjl
+dependencies:
+- python=3.6
+- jupyter
+- jupyterlab
+- bokeh
+- numpy
+- scipy
+- matplotlib
+- pandas
+- ipython
+- ipykernel
+- flask
